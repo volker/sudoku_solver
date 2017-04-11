@@ -1,0 +1,5 @@
+.erlang.mk
+.DS_Store
+ebin
+sudoku_solver
+sudoku_solver.d
